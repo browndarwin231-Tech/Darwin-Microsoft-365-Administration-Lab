@@ -39,7 +39,7 @@ Topics covered:
 
 **Evidence**
 
-![Security and Compliance](screenshots03-ms900-security-and-compliance-learning-path.png)
+![3. Microsoft 365 Security and Compliance](screenshot/03-ms900-security-and-compliance-learning-path.png)
 
 ---
 
