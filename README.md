@@ -13,7 +13,7 @@ Completed the Microsoft Learn learning path covering Microsoft 365 applications,
 
 **Evidence**
 
-![Apps and Services](screenshots/01-ms900-learning-path.png)
+![Apps and Services](screenshot/01-ms900-learning-path.png)
 
 ---
 
@@ -23,7 +23,7 @@ Completed the introductory Microsoft Learn module covering Microsoft 365 service
 
 **Evidence**
 
-![Microsoft 365 Overview](screenshots/02-what-is-microsoft-365-module-complete.png)
+![Microsoft 365 Overview](screenshot/02-what-is-microsoft-365-module-complete.png)
 
 ---
 
@@ -39,7 +39,7 @@ Topics covered:
 
 **Evidence**
 
-![Security and Compliance](screenshots/03-ms900-security-and-compliance-learning-path.png)
+![Security and Compliance](screenshots03-ms900-security-and-compliance-learning-path.png)
 
 ---
 
@@ -54,7 +54,7 @@ Topics covered:
 
 **Evidence**
 
-![Pricing and Licensing](screenshots/04-ms900-pricing-licensing-and-support-learning-path.png)
+![Pricing and Licensing](screenshot/04-ms900-pricing-licensing-and-support-learning-path.png)
 
 ---
 
@@ -64,7 +64,7 @@ Successfully completed the Microsoft Learn assessment for Microsoft 365 pricing,
 
 **Evidence**
 
-![Pricing Module Complete](screenshots/05-ms900-pricing-licensing-module-complete.png)
+![Pricing Module Complete](screenshot/05-ms900-pricing-licensing-module-complete.png)
 
 ---
 
@@ -79,7 +79,7 @@ Topics covered:
 
 **Evidence**
 
-![Support Offerings](screenshots/06-microsoft-365-support-offerings-module.png)
+![Support Offerings](screenshot/06-microsoft-365-support-offerings-module.png)
 
 ---
 
@@ -89,7 +89,7 @@ Successfully completed the Microsoft Learn assessment for Microsoft 365 support 
 
 **Evidence**
 
-![Support Module Complete](screenshots/07-microsoft-365-support-offerings-module-complete.png)
+![Support Module Complete](screenshot/07-microsoft-365-support-offerings-module-complete.png)
 
 ---
 
