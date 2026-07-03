@@ -7,58 +7,37 @@ This repository documents my hands-on Microsoft 365 Administration learning thro
 
 ## Objectives
 
-- Learn Microsoft 365 administration fundamentals
-- Understand Microsoft 365 licensing and subscription models
-- Explore Microsoft Entra ID identity management
-- Learn Microsoft 365 security and compliance concepts
-- Understand Microsoft 365 support services
-- Build practical knowledge for Help Desk and IT Support roles
-
----
-
-## Skills Demonstrated
-
-- Microsoft 365 Administration
-- Microsoft Entra ID Fundamentals
-- Microsoft 365 Licensing
-- Microsoft 365 Pricing
-- Microsoft 365 Support
-- Microsoft 365 Security
-- Microsoft 365 Compliance
-- Microsoft 365 Services
-- Service Health
-- Microsoft Support Requests
-- Microsoft Learn
-
----
-
-# Learning Paths
-
 ## 1. Microsoft 365 Apps and Services
 
 Completed the Microsoft Learn learning path covering Microsoft 365 applications, collaboration tools, and cloud services.
 
-**Screenshot**
+**Evidence**
 
-![MS-900 Apps and Services](screenshots/01-ms900-learning-path.png)
+![Apps and Services](screenshots/01-ms900-learning-path.png)
 
 ---
 
 ## 2. What Is Microsoft 365?
 
-Completed the introductory Microsoft Learn module explaining Microsoft 365 services and cloud productivity.
+Completed the introductory Microsoft Learn module covering Microsoft 365 services and cloud productivity.
 
-**Screenshot**
+**Evidence**
 
-![What Is Microsoft 365](screenshots/02-what-is-microsoft-365-module-complete.png)
+![Microsoft 365 Overview](screenshots/02-what-is-microsoft-365-module-complete.png)
 
 ---
 
 ## 3. Microsoft 365 Security and Compliance
 
-Completed the Microsoft Learn learning path covering Microsoft 365 security, identity, and compliance fundamentals.
+Topics covered:
 
-**Screenshot**
+- Microsoft Entra ID
+- Identity Management
+- Security
+- Compliance
+- Threat Protection
+
+**Evidence**
 
 ![Security and Compliance](screenshots/03-ms900-security-and-compliance-learning-path.png)
 
@@ -66,19 +45,24 @@ Completed the Microsoft Learn learning path covering Microsoft 365 security, ide
 
 ## 4. Microsoft 365 Pricing, Licensing, and Support
 
-Completed the Microsoft Learn learning path covering Microsoft 365 subscriptions, licensing, and billing.
+Topics covered:
 
-**Screenshot**
+- Licensing
+- Billing
+- Subscription Models
+- Pricing
+
+**Evidence**
 
 ![Pricing and Licensing](screenshots/04-ms900-pricing-licensing-and-support-learning-path.png)
 
 ---
 
-## 5. Pricing, Licensing, and Billing Module
+## 5. Pricing, Licensing, and Billing Module Completion
 
-Successfully completed the Microsoft Learn module and assessment.
+Successfully completed the Microsoft Learn assessment for Microsoft 365 pricing, licensing, and billing.
 
-**Screenshot**
+**Evidence**
 
 ![Pricing Module Complete](screenshots/05-ms900-pricing-licensing-module-complete.png)
 
@@ -86,9 +70,14 @@ Successfully completed the Microsoft Learn module and assessment.
 
 ## 6. Microsoft 365 Support Offerings
 
-Completed the Microsoft Learn module covering Microsoft 365 support services.
+Topics covered:
 
-**Screenshot**
+- Microsoft Support
+- Service Requests
+- Service Health
+- Service Level Agreements (SLAs)
+
+**Evidence**
 
 ![Support Offerings](screenshots/06-microsoft-365-support-offerings-module.png)
 
@@ -96,33 +85,52 @@ Completed the Microsoft Learn module covering Microsoft 365 support services.
 
 ## 7. Microsoft 365 Support Offerings Completion
 
-Successfully completed the Microsoft Learn module assessment.
+Successfully completed the Microsoft Learn assessment for Microsoft 365 support services.
 
-**Screenshot**
+**Evidence**
 
 ![Support Module Complete](screenshots/07-microsoft-365-support-offerings-module-complete.png)
 
 ---
 
-## Technologies Used
+# Skills Demonstrated
 
-- Microsoft 365
-- Microsoft Learn
+- Microsoft 365 Administration
 - Microsoft Entra ID
-- Microsoft Teams
-- Microsoft 365 Admin Center
-- Microsoft Defender
-- Microsoft Purview
+- Identity Management
+- Microsoft 365 Licensing
+- Microsoft 365 Support
+- Service Health Monitoring
+- Security Fundamentals
+- Compliance Fundamentals
+- Microsoft Learn
+- Cloud Administration
+- Help Desk Fundamentals
 
 ---
 
-## Key Skills
+# Technologies Used
 
-- User Support
-- Identity Management
-- Licensing
-- Cloud Administration
-- Security Fundamentals
+- Microsoft 365
+- Microsoft Entra ID
+- Microsoft Learn
+- Microsoft 365 Admin Center
+- Microsoft Defender
+- Microsoft Purview
+- Microsoft Teams
+
+---
+
+# Career Relevance
+
+This project demonstrates practical Microsoft 365 administration skills applicable to:
+
+- IT Help Desk Technician
+- IT Support Specialist
+- Service Desk Analyst
+- Desktop Support Technician
+- Microsoft 365 Administrator
+- Junior Systems Administrator
 - Compliance
 - Troubleshooting
 - Service Health Monitoring
